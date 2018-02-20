@@ -52,3 +52,8 @@ git push
 # and pushed to a publicly available server to be reiterated over
 
 more on introductory version control at http://happygitwithr.com/push-pull-github.html
+now that we have learned how to use git and github we can graduate on to RStudio
+
+## After each push, you can either set up credential caching for HTTPS access or set up SSH keys
+http://happygitwithr.com/credential-caching.html#credential-caching
+http://happygitwithr.com/ssh-keys.html#ssh-keys
