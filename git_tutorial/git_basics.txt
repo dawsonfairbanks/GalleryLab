@@ -51,3 +51,4 @@ git push
 # committed the file with a unique I.D.
 # and pushed to a publicly available server to be reiterated over
 
+more on introductory version control at http://happygitwithr.com/push-pull-github.html
