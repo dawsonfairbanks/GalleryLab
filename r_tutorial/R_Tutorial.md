@@ -7,7 +7,7 @@ Here are some helpful links to get started:
 
 [Setting up Projects in R Studio](https://support.rstudio.com/hc/en-us/articles/200526207)
 
-######Prerequisites######
+###### Prerequisites ######
 1. We have registered for a free GitHub account
 2. We have installed/updated R and R Studio
 3. Have installed Git onto our local machines
