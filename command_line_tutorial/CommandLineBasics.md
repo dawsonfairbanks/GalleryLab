@@ -12,9 +12,9 @@
 
 #### generally paths start with /: ~: or ..
 
-cd<path> = change directory (move around in file structure)
-ls<path> = show contents of directory
-ls -l <path> = show contents of directory as list
+cd<path> = change directory (move around in file structure) <br>
+ls<path> = show contents of directory <br> 
+ls -l <path> = show contents of directory as list <br>
 
 #### flags (options) like "-l" all specific ways of executing a command
 #### you can find the flags by typing: man <command>
