@@ -3,10 +3,10 @@
 
 #### a path tells the terminal where to look for files/ directories
 
-/= a root directory 
-~= home directory
-. = current directory
-.. = parent directory (1 level up)
+`/` = a root directory 
+`~` = home directory
+`.` = current directory
+`..` = parent directory (1 level up)
 
 /some/directory/where/you/keep/a/file/<file > = path
 
