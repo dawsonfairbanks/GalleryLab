@@ -3,44 +3,44 @@
 
 #### a path tells the terminal where to look for files/ directories
 
-`/` = a root directory 
-`~` = home directory
-`.` = current directory
-`..` = parent directory (1 level up)
+`/` = a root directory <br>
+`~` = home directory <br>
+`.` = current directory <br>
+`..` = parent directory (1 level up) <br>
 
-/some/directory/where/you/keep/a/file/<file > = path
+`/some/directory/where/you/keep/a/file/<file >` = path
 
 #### generally paths start with /: ~: or ..
 
-cd<path> = change directory (move around in file structure) <br>
-ls<path> = show contents of directory <br> 
-ls -l <path> = show contents of directory as list <br>
+`cd<path>` = change directory (move around in file structure) <br>
+`ls<path>` = show contents of directory <br> 
+`ls -l <path>` = show contents of directory as list <br>
 
-#### flags (options) like "-l" all specific ways of executing a command
-#### you can find the flags by typing: man <command>
+#### flags (options) like `-l` all specific ways of executing a command
+#### you can find the flags by typing: `man <command>`
 
 ## File Handling
 
-head<file> = display first 10 lines of a file (specify number of line with -n flag)
-tail<file> = display last 10 lines of a file
-more<file> = display full screen of file
-cat<file> = display all file
-wc<file> = word count (can count lines with -l flag and characters with -c flag)
-mv<file><path> = move file (can also be used to rename, if <path> is just a new name)
-cp<file><path> = copy a file (can be used to copy directories using the -r flag)
-rm<file> = word count (can count lines with -l flag and characters with -c flag)
+`head<file>` = display first 10 lines of a file (specify number of line with -n flag) <br>
+`tail<file>` = display last 10 lines of a file <br>
+`more<file>` = display full screen of file <br>
+`cat<file>` = display all file <br>
+`wc<file>` = word count (can count lines with -l flag and characters with -c flag) <br>
+`mv<file><path>` = move file (can also be used to rename, if <path> is just a new name) <br>
+`cp<file><path>` = copy a file (can be used to copy directories using the -r flag) <br>
+`rm<file>` = word count (can count lines with -l flag and characters with -c flag) <br>
 
-mv<file><path> = move a file (can also be used to rename, if <path> is just a new name)
-cp<file><path> = copy a file (can be used to copy directories using the -r flag)
-rm<file> = remove a file (can be used to copy directories using the -r flag)
+`mv<file><path>` = move a file (can also be used to rename, if <path> is just a new name) <br>
+`cp<file><path>` = copy a file (can be used to copy directories using the -r flag) <br>
+`rm<file>` = remove a file (can be used to copy directories using the -r flag) <br>
 
-#grep#
-#grep stands for "get regularexpression"
-#a regular expression is a pattern you can specify
-grep<pattern><file> = search for a pattern in a file and return the matching line(s)
-grep ">" example.fasta = show all header lines in a fast file
-grep -c <pattern><file> = count number of lines with pattern in file
-grep -c ">" example.fasta = count header lines (and thus sequences) in fasta files
+## Grep
+grep stands for "get regularexpression" <br>
+a regular expression is a pattern you can specify <br>
+`grep<pattern><file>` = search for a pattern in a file and return the matching line(s)
+`grep ">" example.fasta` = show all header lines in a fast file
+`grep -c <pattern><file>` = count number of lines with pattern in file
+`grep -c ">" example.fasta` = count header lines (and thus sequences) in fasta files
 
 grep -B<number-A<number<pattern><file> - show pattern in file with <number> of lines before (-B) or after (-A) in it
 
