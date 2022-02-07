@@ -14,11 +14,11 @@ This creates a copy to your repositories and won't edit the master repository.
 Now we will clone the repository to your local machine
 
 > **fork** = copy repository on github <br/>
-> clone = copy to local machine
+> **clone** = copy to local machine
 
-## Copy to your local machine by moving to the directory you would like to clone to
+## Copy repository to your local machine 
 
-In terminal
+First we will move to the directory you would like to clone to. In terminal
 ```
 cd ~/Documents #moves to documents from your home directory
 mkdir Gallery_Lab #make a directory entitled Gallery_Lab to add your github clone to
@@ -26,7 +26,7 @@ cd Gallery_Lab
 ```
 
 
-# Clone respository with https link from your forked repository
+## Clone respository with https link from your forked repository
 
 ```
 git clone https://github.com/<username>/GalleryLab.git #should differ in your forked repository
@@ -35,7 +35,7 @@ git config --global user.email <githubemail>
 git init . #initialize current wd
 ```
 
-# Add --> Commit --> Push Data###
+## Add -> Commit -> Push Data
 Now we will practice how to add ,commit, and push data
 add is the staging command for git want to use add the most when working with git
 want to add, but not ready to commit
@@ -62,13 +62,13 @@ added the textfile to the staging area
 committed the file with a unique I.D.
 and pushed to a publicly available server to be reiterated over
 
-# References
+## References
 more on introductory version control at http://happygitwithr.com/push-pull-github.html
 now that we have learned how to use git and github we can graduate on to RStudio
 
 
-# A note on passwords, SSH, HTTPS access
-## After each push, you can either set up credential caching for HTTPS access or set up SSH keys
+## A note on passwords, SSH, HTTPS access
+### After each push, you can either set up credential caching for HTTPS access or set up SSH keys
 http://happygitwithr.com/credential-caching.html#credential-caching
 http://happygitwithr.com/ssh-keys.html#ssh-keys
 https keychain is recommended by github 
