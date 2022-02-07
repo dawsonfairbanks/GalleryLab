@@ -1,19 +1,19 @@
-# Introduction to Version Control with Git ##
-Everything with a hash (#) sign in front of it is notation </b>
-This link below is a helpful guide </b>
+# Introduction to Version Control with Git
+Everything with a hash (#) sign in front of it is notation <br/>
+This link below is a helpful guide <br/>
 
 https://guides.github.com/activities/hello-world/
 
 ## Forking a repository
-Today we will simply fork from this GalleryLab (example) repository </b>
-Go to repository, and fork to your repository </b>
+Today we will simply fork from this GalleryLab (example) repository <br/>
+Go to repository, and fork to your repository <br/>
 
 https://github.com/dawsonfairbanks/GalleryLab
 
 This creates a copy to your repositories and won't edit the master repository.
 Now we will clone the repository to your local machine
 
-> fork = copy repository on github </b>
+> fork = copy repository on github <br/>
 > clone = copy to local machine
 
 ## Copy to your local machine by moving to the directory you would like to clone to
