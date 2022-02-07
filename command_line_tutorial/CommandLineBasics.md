@@ -10,14 +10,14 @@
 
 `/some/directory/where/you/keep/a/file/<file >` = path
 
-#### generally paths start with /: ~: or ..
+generally paths start with /: ~: or ..
 
 `cd<path>` = change directory (move around in file structure) <br>
 `ls<path>` = show contents of directory <br> 
 `ls -l <path>` = show contents of directory as list <br>
 
-#### flags (options) like `-l` all specific ways of executing a command
-#### you can find the flags by typing: `man <command>`
+flags (options) like `-l` all specific ways of executing a command
+you can find the flags by typing: `man <command>`
 
 ## File Handling
 
