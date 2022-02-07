@@ -39,9 +39,9 @@ git init . #initialize current wd
 Now we will practice how to **add**, **commit**, and **push** data. <br/><br/>
 **_Add_** is the staging command for git. You want to use add the most when working with git.
 Add means you can work on it. It will add new or changed files ihn your working directory to the Git staging area. <br/><br/>
-Git commit is where you get to unique id. <br/>
-**_Commit_** is focal point of version control, where info is being stored forever
-with IDs can go back in time to the old versions you have made. <br/><br/>
+**_Commit_** is focal point of version control, where info is being stored forever.
+Git commit is where you get a unique id. <br/>
+With IDs can go back in time to the old versions you have made. <br/><br/>
 **_Push_** uploads them to github to be viewed, stored, shared with collaborators <br/>
 Refer to the guide link at the top of this tutorial on pushing sensitive data, passwds etc.
 
@@ -57,9 +57,9 @@ git push
 ```
 
 We have now created a text file with command line in a new directory. <br/>
-**added** the textfile to the staging area <br/>
-**committed** the file with a unique I.D. <br/>
-and **pushed** to a publicly available server to be reiterated over <br/>
+**_added_** the textfile to the staging area <br/>
+**_committed_** the file with a unique I.D. <br/>
+and **_pushed_** to a publicly available server to be reiterated over <br/>
 
 ## References
 more on introductory version control at http://happygitwithr.com/push-pull-github.html
@@ -67,8 +67,8 @@ now that we have learned how to use git and github we can graduate on to RStudio
 
 
 ## A note on passwords, SSH, HTTPS access
-### After each push, you can either set up credential caching for HTTPS access or set up SSH keys
-http://happygitwithr.com/credential-caching.html#credential-caching
-http://happygitwithr.com/ssh-keys.html#ssh-keys
+After each push, you can either set up credential caching for HTTPS access or set up SSH keys <br/>
+http://happygitwithr.com/credential-caching.html#credential-caching <br/>
+http://happygitwithr.com/ssh-keys.html#ssh-keys <br/>
 https keychain is recommended by github 
 
