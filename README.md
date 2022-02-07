@@ -6,11 +6,7 @@ This repository contains files for use in R/Shell.
 This is a very basic overview of how to use github, automate tasks in Shell and integrate github verion
 control into your data analysis workflow.
 
-Be sure to download R and R Studio:  
-https://www.rstudio.com/  
-https://www.r-project.org/  
-
-Check out the [Download instructions](https://github.com/dawsonfairbanks/GalleryLab/blob/master/shell_tutorial/Shell_download_instructions.md) first.
+Check out the [Download instructions](https://github.com/dawsonfairbanks/GalleryLab/blob/master/shell_tutorial/Shell_download_instructions.md) first for instructions on how to install Shell (important for Windows users), Git and R.
 
 
 Good luck!
