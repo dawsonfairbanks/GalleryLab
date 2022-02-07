@@ -16,7 +16,7 @@ Now we will clone the repository to your local machine
 > **fork** = copy repository on github <br/>
 > **clone** = copy to local machine
 
-## Copy repository to your local machine 
+## Clone repository to your local machine 
 
 First we will move to the directory you would like to clone to. In terminal
 ```
@@ -25,8 +25,7 @@ mkdir Gallery_Lab #make a directory entitled Gallery_Lab to add your github clon
 cd Gallery_Lab
 ```
 
-
-## Clone respository with https link from your forked repository
+Clone respository with https link from your forked repository
 
 ```
 git clone https://github.com/<username>/GalleryLab.git #should differ in your forked repository
@@ -35,7 +34,7 @@ git config --global user.email <githubemail>
 git init . #initialize current wd
 ```
 
-## Add -> Commit -> Push Data
+## Add &#8594; Commit &#8594; Push Data
 Now we will practice how to **add**, **commit**, and **push** data. <br/><br/>
 Add is the staging command for git. You want to use add the most when working with git.
 You use want to use add when you're not ready to commit <br/>
