@@ -1,5 +1,6 @@
 # Shell, Git and R/RStudio Download Instructions
 
+# 1. Install Shell
 ## macOS
 The default shell in all versions of macOS is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal or just search for it in the search spotlight tool.
 
@@ -28,7 +29,7 @@ shown:setx HOME "%USERPROFILE%"
 This will provide you with both Git and Bash in the Git Bash program.
 
 
-## Install Git
+# 2. Install Git
 This is a version control system that lets you track who made changes to what, when and has options for easily sharing a public version of your code on github.com (you will need to use current versions of Chrome, Firefox or Safari).
 
 ### Windows
@@ -38,7 +39,7 @@ Should be installed with your Bash install
 For OSX 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. After installing Git, there will not be anything in your /Applications folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available here. 
 
 
-### Install R and RStudio
+# 3. Install R and RStudio
 [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
 
 Windows: [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)<br/>
