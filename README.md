@@ -10,10 +10,7 @@ Be sure to download R and R Studio:
 https://www.rstudio.com/  
 https://www.r-project.org/  
 
-<br/>
-Check out the [Shell download instructions](https://github.com/dawsonfairbanks/GalleryLab/blob/master/shell_tutorial/Shell_download_instructions.md/) if you are on Windows:
+Check out the [Shell download instructions](https://github.com/dawsonfairbanks/GalleryLab/blob/master/shell_tutorial/Shell_download_instructions.md) if you are on Windows:
 
-
-<br/>
 
 Good luck!
