@@ -5,7 +5,8 @@ The default shell in all versions of macOS is Bash, so no need to install anythi
 
 ## Windows
 
-1.	Download the Git for Windows installer.
+[Video Tutorial](https://www.youtube.com/watch?v=339AEqk9c-8)
+1.	Download the Git for [Windows installer](https://gitforwindows.org/).
 2.	Run the installer and follow the steps bellow: 
 	1.	Click on "Next".
 	2.	Click on "Next".
@@ -33,11 +34,12 @@ This is a version control system that lets you track who made changes to what, w
 ### Windows
 Should be installed with your Bash install
 
-### Mac- for OSX 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. After installing Git, there will not be anything in your /Applications folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available here. 
+### Mac
+For OSX 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. After installing Git, there will not be anything in your /Applications folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available here. 
 
 
-#Install R and RStudio
+### Install R and RStudio
 [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
 
-Windows: [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
+Windows: [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)<br/>
 Mac: [https://cran.r-project.org/bin/macosx/](https://cran.r-project.org/bin/macosx/ )
