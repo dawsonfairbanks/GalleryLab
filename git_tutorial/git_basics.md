@@ -36,14 +36,14 @@ git init . #initialize current wd
 ```
 
 ## Add -> Commit -> Push Data
-Now we will practice how to add, commit, and push data. <br/>
+Now we will practice how to **add**, **commit**, and **push** data. <br/><br/>
 Add is the staging command for git. You want to use add the most when working with git.
 You use want to use add when you're not ready to commit <br/>
-Adding means you can work on it. It will add new or changed files ihn your working directory to the Git staging area. <br/>
+**Add** means you can work on it. It will add new or changed files ihn your working directory to the Git staging area. <br/><br/>
 Git commit is where you get to unique id. <br/>
-Commit is focal point of version control, where info is being stored forever
-with IDs can go back in time to the old versions you have made. <br/>
-Push uploads them to github to be viewed, stored, shared with collaborators <br/>
+**Commit** is focal point of version control, where info is being stored forever
+with IDs can go back in time to the old versions you have made. <br/><br/
+**Push** uploads them to github to be viewed, stored, shared with collaborators <br/>
 Refer to the guide link at the top of this tutorial on pushing sensitive data, passwds etc.
 
 ```
