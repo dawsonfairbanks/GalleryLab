@@ -11,7 +11,7 @@ https://www.rstudio.com/
 https://www.r-project.org/  
 
 <br/>
-Check out the [Shell download instructions](/shell_tutorial/Shell_download_instructions.md) if you are on Windows:
+Check out the [Shell download instructions](~/Documents/GalleryLab/shell_tutorial/Shell_download_instructions.md) if you are on Windows:
 
 
 <br/>
