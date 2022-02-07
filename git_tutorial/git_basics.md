@@ -18,7 +18,8 @@ Now we will clone the repository to your local machine
 
 ## Clone repository to your local machine 
 
-First we will move to the directory you would like to clone to. In terminal
+First we will move to the directory you would like to clone to. <br/>
+In terminal
 ```
 cd ~/Documents #moves to documents from your home directory
 mkdir Gallery_Lab #make a directory entitled Gallery_Lab to add your github clone to
@@ -36,13 +37,12 @@ git init . #initialize current wd
 
 ## Add &#8594; Commit &#8594; Push Data
 Now we will practice how to **add**, **commit**, and **push** data. <br/><br/>
-Add is the staging command for git. You want to use add the most when working with git.
-You use want to use add when you're not ready to commit <br/>
-**Add** means you can work on it. It will add new or changed files ihn your working directory to the Git staging area. <br/><br/>
+**_Add_** is the staging command for git. You want to use add the most when working with git.
+Add means you can work on it. It will add new or changed files ihn your working directory to the Git staging area. <br/><br/>
 Git commit is where you get to unique id. <br/>
-**Commit** is focal point of version control, where info is being stored forever
-with IDs can go back in time to the old versions you have made. <br/><br/
-**Push** uploads them to github to be viewed, stored, shared with collaborators <br/>
+**_Commit_** is focal point of version control, where info is being stored forever
+with IDs can go back in time to the old versions you have made. <br/><br/>
+**_Push_** uploads them to github to be viewed, stored, shared with collaborators <br/>
 Refer to the guide link at the top of this tutorial on pushing sensitive data, passwds etc.
 
 ```
