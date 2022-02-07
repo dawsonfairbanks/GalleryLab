@@ -1,10 +1,10 @@
 ## Introduction to Version Control with Git ##
 # Everything with a hash (#) sign in front of it is notation
-#this link below is a helpful guide
+# this link below is a helpful guide
 https://guides.github.com/activities/hello-world/
 
-#today we will simply fork from the GalleryLab repository
-#go to repository, and fork to your repository
+# today we will simply fork from the GalleryLab repository
+# go to repository, and fork to your repository
 https://github.com/dawsonfairbanks/GalleryLab
 
 #this creates a copy to your repositories and won't edit the master repository
@@ -20,10 +20,12 @@ cd Gallery_Lab
 
 
 #clone respository with https link from your forked repository
+```
 git clone https://github.com/<username>/GalleryLab.git #should differ in your forked repository
 git config --global user.name "<githubusername>"
 git config --global user.email <githubemail>
 git init . #initialize current wd
+```
 
 ####Add --> Commit --> Push Data###
 #Now we will practice how to add ,commit, and push data
@@ -36,7 +38,7 @@ git init . #initialize current wd
 #push uploads them to github
 #refer to the guide link at the top of this tutorial on pushing sensitive data, passwds etc.
 
-
+```
 mkdir example_directory
 cd example_directory
 nano sometextfile.txt
@@ -45,6 +47,7 @@ git add sometextfile.txt
 git status #see everything that has been changed since last commit
 git commit -m 'added example text file' # put in some useful comment that has been changed since last commit
 git push
+```
 
 # we have now created a text file with command line in a new directory
 # added the textfile to the staging area
@@ -57,4 +60,7 @@ now that we have learned how to use git and github we can graduate on to RStudio
 ## After each push, you can either set up credential caching for HTTPS access or set up SSH keys
 http://happygitwithr.com/credential-caching.html#credential-caching
 http://happygitwithr.com/ssh-keys.html#ssh-keys
-https keychain is recommended by github
+https keychain is recommended by github 
+
+# A note on keychain
+
