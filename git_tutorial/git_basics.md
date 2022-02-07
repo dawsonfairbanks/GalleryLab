@@ -13,7 +13,7 @@ https://github.com/dawsonfairbanks/GalleryLab
 This creates a copy to your repositories and won't edit the master repository.
 Now we will clone the repository to your local machine
 
-> fork = copy repository on github <br/>
+> **fork** = copy repository on github <br/>
 > clone = copy to local machine
 
 ## Copy to your local machine by moving to the directory you would like to clone to
