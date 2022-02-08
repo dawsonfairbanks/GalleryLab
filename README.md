@@ -9,4 +9,4 @@ control into your data analysis workflow.
 Check out the [Download instructions](https://github.com/dawsonfairbanks/GalleryLab/blob/master/shell_tutorial/Shell_download_instructions.md) first for instructions on how to install Shell (important for Windows users), Git and R.
 
 
-Good luck!
+Good luck!!
