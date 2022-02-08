@@ -56,7 +56,7 @@ It is also called the command-line interface because you type commands on a line
 
 In this case we are using BaSh (Born Again Shell), but there are lots of different shells. BaSh is very common on UNIX and Linux operating systems.
 
-## The three shells used in this workshop
+## The three shells used in this tutorial
 
 ### Windows
 
