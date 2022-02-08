@@ -505,27 +505,27 @@ http://linuxcommand.org/lc3_lts0040.php -> Good tutorial on starting with bash
 
 
 ### These are the commands I use most ###
-`man <command_name>` = manual for commands
-`command_name --help` = (Windows help for commands)
-`pwd` = Present working directory
-`ls` = list the contents of the present directory
-`ls -l` = long list contents with the folder sizes, user permissions (rwx-wx---x) and other things
-`ls -lh` = long list contents with sizes of folder in human readable form
-`cd ~` = change to home directory
-`cd` = change directory
-`cd ..` = go up one directory
-`cd ../..`= go up two directories
-`mkdir <folder_name>`= make directory
-`curl [webaddress]`=  copies information from the URL entered
-`wc  file.txt`= lists the numbers of lines, words, and characters (incl. spaces) in the input file.
-`less [file]`= displays only information which fits your current window size
-`head` = displays the first 10 lines by default
-`tail` = displays the last 10 lines by default
-`cat` = concatenate and print the contents of the file. this command allows us to create single or multiple files, view contain of file, concatenate files and redirect output in terminal or files
-`>` = overwrites to a new file name
-`>>` = appends to end of file
-`|`= # pipe, strings commands together
-`touch`= create file
-`mv` =moves files around
-`mv <old_name> <new_name>` = moves file/folder from old_name to file/folder new_name
+`man <command_name>` = manual for commands <br/>
+`command_name --help` = (Windows help for commands) <br/>
+`pwd` = Present working directory <br/>
+`ls` = list the contents of the present directory <br/>
+`ls -l` = long list contents with the folder sizes, user permissions and other things <br/>
+`ls -lh` = long list contents with sizes of folder in human readable form <br/>
+`cd ~` = change to home directory <br/>
+`cd` = change directory <br/>
+`cd ..` = go up one directory <br/>
+`cd ../..`= go up two directories <br/>
+`mkdir <folder_name>`= make directory <br/>
+`curl [webaddress]`=  copies information from the URL entered <br/>
+`wc  file.txt`= lists the numbers of lines, words, and characters (incl. spaces) in the input file <br/>
+`less [file]`= displays only information which fits your current window size <br/>
+`head` = displays the first 10 lines by default <br/>
+`tail` = displays the last 10 lines by default <br/>
+`cat` = concatenate and print the contents of the file. This command allows us to create single or multiple files, view contain of file, concatenate files and redirect output in terminal or files. <br/>
+`>` = overwrites to a new file name <br/>
+`>>` = appends to end of file <br/>
+`|`= # pipe, strings commands together <br/>
+`touch`= create file <br/>
+`mv` =moves files around <br/>
+`mv <old_name> <new_name>` = moves file/folder from old name to file/folder new_name <br/>
 ```
